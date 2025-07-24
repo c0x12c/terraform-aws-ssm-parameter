@@ -2,6 +2,10 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.0]() (2025-07-24)
+
+Release module to Terraform Registry.
+
 ## [0.1.4]() (2024-12-05)
 
 ### Features
@@ -13,4 +17,3 @@ All notable changes to this project will be documented in this file.
 ### Features
 
 * Initial commit with all the code
-
